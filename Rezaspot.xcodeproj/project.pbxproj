@@ -15,6 +15,61 @@
 		815677F5230B2A63006452A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 815677F4230B2A63006452A7 /* Assets.xcassets */; };
 		815677F8230B2A63006452A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 815677F6230B2A63006452A7 /* LaunchScreen.storyboard */; };
 		81567800230B2CAD006452A7 /* LoginPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 815677FF230B2CAD006452A7 /* LoginPage.swift */; };
+		81567837230B2F10006452A7 /* Settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567802230B2F0C006452A7 /* Settings.png */; };
+		81567838230B2F10006452A7 /* 2. Vehicle Registration.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567803230B2F0C006452A7 /* 2. Vehicle Registration.png */; };
+		81567839230B2F10006452A7 /* 2. Vehicle Registration@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567804230B2F0C006452A7 /* 2. Vehicle Registration@3x.png */; };
+		8156783A230B2F10006452A7 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567805230B2F0C006452A7 /* Background.png */; };
+		8156783B230B2F10006452A7 /* Logout.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567806230B2F0C006452A7 /* Logout.png */; };
+		8156783C230B2F10006452A7 /* 7. Card Details.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567807230B2F0C006452A7 /* 7. Card Details.png */; };
+		8156783D230B2F10006452A7 /* avatar.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567808230B2F0C006452A7 /* avatar.png */; };
+		8156783E230B2F10006452A7 /* 3. Map Search.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567809230B2F0C006452A7 /* 3. Map Search.png */; };
+		8156783F230B2F10006452A7 /* 7. Card Details@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156780A230B2F0C006452A7 /* 7. Card Details@3x.png */; };
+		81567840230B2F10006452A7 /* Buttons@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156780B230B2F0C006452A7 /* Buttons@2x.png */; };
+		81567841230B2F10006452A7 /* Union -1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156780C230B2F0C006452A7 /* Union -1@2x.png */; };
+		81567842230B2F10006452A7 /* search@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156780D230B2F0C006452A7 /* search@3x.png */; };
+		81567843230B2F10006452A7 /* Continue@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156780E230B2F0C006452A7 /* Continue@2x.png */; };
+		81567844230B2F10006452A7 /* 8. Reservations.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156780F230B2F0C006452A7 /* 8. Reservations.png */; };
+		81567845230B2F10006452A7 /* search.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567810230B2F0D006452A7 /* search.png */; };
+		81567846230B2F10006452A7 /* Union 4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567811230B2F0D006452A7 /* Union 4@2x.png */; };
+		81567847230B2F10006452A7 /* 5. Duration.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567812230B2F0D006452A7 /* 5. Duration.png */; };
+		81567848230B2F10006452A7 /* 1. Login Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567813230B2F0D006452A7 /* 1. Login Screen.png */; };
+		81567849230B2F10006452A7 /* Union -1.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567814230B2F0D006452A7 /* Union -1.png */; };
+		8156784A230B2F10006452A7 /* 5. Duration@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567815230B2F0D006452A7 /* 5. Duration@3x.png */; };
+		8156784B230B2F10006452A7 /* 5. Duration@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567816230B2F0D006452A7 /* 5. Duration@2x.png */; };
+		8156784C230B2F10006452A7 /* Continue@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567817230B2F0D006452A7 /* Continue@3x.png */; };
+		8156784D230B2F10006452A7 /* Union 4@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567818230B2F0D006452A7 /* Union 4@3x.png */; };
+		8156784E230B2F10006452A7 /* 1. Login Screen@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567819230B2F0D006452A7 /* 1. Login Screen@3x.png */; };
+		8156784F230B2F10006452A7 /* inputs.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156781A230B2F0D006452A7 /* inputs.png */; };
+		81567850230B2F10006452A7 /* Wallet.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156781B230B2F0D006452A7 /* Wallet.png */; };
+		81567851230B2F10006452A7 /* 6. Payment Method@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156781C230B2F0D006452A7 /* 6. Payment Method@3x.png */; };
+		81567852230B2F10006452A7 /* Button-Temp.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156781D230B2F0E006452A7 /* Button-Temp.png */; };
+		81567853230B2F10006452A7 /* Buttons@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156781E230B2F0E006452A7 /* Buttons@3x.png */; };
+		81567854230B2F10006452A7 /* Rectangle 123.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156781F230B2F0E006452A7 /* Rectangle 123.png */; };
+		81567855230B2F10006452A7 /* Rectangle 123@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567820230B2F0E006452A7 /* Rectangle 123@2x.png */; };
+		81567856230B2F10006452A7 /* Reservation.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567821230B2F0E006452A7 /* Reservation.png */; };
+		81567857230B2F10006452A7 /* 7. Card Details@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567822230B2F0E006452A7 /* 7. Card Details@2x.png */; };
+		81567858230B2F10006452A7 /* Rectangle 123@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567823230B2F0E006452A7 /* Rectangle 123@3x.png */; };
+		81567859230B2F10006452A7 /* Continue.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567824230B2F0E006452A7 /* Continue.png */; };
+		8156785A230B2F10006452A7 /* search@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567825230B2F0E006452A7 /* search@2x.png */; };
+		8156785B230B2F10006452A7 /* 4. Menu@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567826230B2F0F006452A7 /* 4. Menu@2x.png */; };
+		8156785C230B2F10006452A7 /* Union -1@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567827230B2F0F006452A7 /* Union -1@3x.png */; };
+		8156785D230B2F10006452A7 /* Promo.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567828230B2F0F006452A7 /* Promo.png */; };
+		8156785E230B2F10006452A7 /* 2. Vehicle Registration@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567829230B2F0F006452A7 /* 2. Vehicle Registration@2x.png */; };
+		8156785F230B2F10006452A7 /* Buttons.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156782A230B2F0F006452A7 /* Buttons.png */; };
+		81567860230B2F10006452A7 /* 3. Map Search@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156782B230B2F0F006452A7 /* 3. Map Search@2x.png */; };
+		81567861230B2F10006452A7 /* 3. Map Search@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156782C230B2F0F006452A7 /* 3. Map Search@3x.png */; };
+		81567862230B2F10006452A7 /* 6. Payment Method@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156782D230B2F0F006452A7 /* 6. Payment Method@2x.png */; };
+		81567863230B2F10006452A7 /* 8. Reservations@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156782E230B2F0F006452A7 /* 8. Reservations@3x.png */; };
+		81567864230B2F10006452A7 /* 8. Reservations@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156782F230B2F0F006452A7 /* 8. Reservations@2x.png */; };
+		81567865230B2F10006452A7 /* 4. Menu@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567830230B2F0F006452A7 /* 4. Menu@3x.png */; };
+		81567866230B2F10006452A7 /* 6. Payment Method.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567831230B2F10006452A7 /* 6. Payment Method.png */; };
+		81567867230B2F10006452A7 /* Rectangle 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567832230B2F10006452A7 /* Rectangle 1.png */; };
+		81567868230B2F10006452A7 /* Union 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567833230B2F10006452A7 /* Union 4.png */; };
+		81567869230B2F10006452A7 /* 4. Menu.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567834230B2F10006452A7 /* 4. Menu.png */; };
+		8156786A230B2F10006452A7 /* back_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567835230B2F10006452A7 /* back_button.png */; };
+		8156786B230B2F10006452A7 /* 1. Login Screen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567836230B2F10006452A7 /* 1. Login Screen@2x.png */; };
+		8156786D230B2F73006452A7 /* Logo1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156786C230B2F73006452A7 /* Logo1.png */; };
+		8156786F230B3815006452A7 /* SignInPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8156786E230B3815006452A7 /* SignInPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +84,61 @@
 		815677F7230B2A63006452A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		815677F9230B2A63006452A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		815677FF230B2CAD006452A7 /* LoginPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPage.swift; sourceTree = "<group>"; };
+		81567802230B2F0C006452A7 /* Settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Settings.png; path = Rezaspot/__Assests__/Settings.png; sourceTree = SOURCE_ROOT; };
+		81567803230B2F0C006452A7 /* 2. Vehicle Registration.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "2. Vehicle Registration.png"; path = "Rezaspot/__Assests__/2. Vehicle Registration.png"; sourceTree = SOURCE_ROOT; };
+		81567804230B2F0C006452A7 /* 2. Vehicle Registration@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "2. Vehicle Registration@3x.png"; path = "Rezaspot/__Assests__/2. Vehicle Registration@3x.png"; sourceTree = SOURCE_ROOT; };
+		81567805230B2F0C006452A7 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Background.png; path = Rezaspot/__Assests__/Background.png; sourceTree = SOURCE_ROOT; };
+		81567806230B2F0C006452A7 /* Logout.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Logout.png; path = Rezaspot/__Assests__/Logout.png; sourceTree = SOURCE_ROOT; };
+		81567807230B2F0C006452A7 /* 7. Card Details.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "7. Card Details.png"; path = "Rezaspot/__Assests__/7. Card Details.png"; sourceTree = SOURCE_ROOT; };
+		81567808230B2F0C006452A7 /* avatar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = avatar.png; path = Rezaspot/__Assests__/avatar.png; sourceTree = SOURCE_ROOT; };
+		81567809230B2F0C006452A7 /* 3. Map Search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "3. Map Search.png"; path = "Rezaspot/__Assests__/3. Map Search.png"; sourceTree = SOURCE_ROOT; };
+		8156780A230B2F0C006452A7 /* 7. Card Details@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "7. Card Details@3x.png"; path = "Rezaspot/__Assests__/7. Card Details@3x.png"; sourceTree = SOURCE_ROOT; };
+		8156780B230B2F0C006452A7 /* Buttons@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Buttons@2x.png"; path = "Rezaspot/__Assests__/Buttons@2x.png"; sourceTree = SOURCE_ROOT; };
+		8156780C230B2F0C006452A7 /* Union -1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Union -1@2x.png"; path = "Rezaspot/__Assests__/Union -1@2x.png"; sourceTree = SOURCE_ROOT; };
+		8156780D230B2F0C006452A7 /* search@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "search@3x.png"; path = "Rezaspot/__Assests__/search@3x.png"; sourceTree = SOURCE_ROOT; };
+		8156780E230B2F0C006452A7 /* Continue@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Continue@2x.png"; path = "Rezaspot/__Assests__/Continue@2x.png"; sourceTree = SOURCE_ROOT; };
+		8156780F230B2F0C006452A7 /* 8. Reservations.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "8. Reservations.png"; path = "Rezaspot/__Assests__/8. Reservations.png"; sourceTree = SOURCE_ROOT; };
+		81567810230B2F0D006452A7 /* search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = search.png; path = Rezaspot/__Assests__/search.png; sourceTree = SOURCE_ROOT; };
+		81567811230B2F0D006452A7 /* Union 4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Union 4@2x.png"; path = "Rezaspot/__Assests__/Union 4@2x.png"; sourceTree = SOURCE_ROOT; };
+		81567812230B2F0D006452A7 /* 5. Duration.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "5. Duration.png"; path = "Rezaspot/__Assests__/5. Duration.png"; sourceTree = SOURCE_ROOT; };
+		81567813230B2F0D006452A7 /* 1. Login Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "1. Login Screen.png"; path = "Rezaspot/__Assests__/1. Login Screen.png"; sourceTree = SOURCE_ROOT; };
+		81567814230B2F0D006452A7 /* Union -1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Union -1.png"; path = "Rezaspot/__Assests__/Union -1.png"; sourceTree = SOURCE_ROOT; };
+		81567815230B2F0D006452A7 /* 5. Duration@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "5. Duration@3x.png"; path = "Rezaspot/__Assests__/5. Duration@3x.png"; sourceTree = SOURCE_ROOT; };
+		81567816230B2F0D006452A7 /* 5. Duration@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "5. Duration@2x.png"; path = "Rezaspot/__Assests__/5. Duration@2x.png"; sourceTree = SOURCE_ROOT; };
+		81567817230B2F0D006452A7 /* Continue@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Continue@3x.png"; path = "Rezaspot/__Assests__/Continue@3x.png"; sourceTree = SOURCE_ROOT; };
+		81567818230B2F0D006452A7 /* Union 4@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Union 4@3x.png"; path = "Rezaspot/__Assests__/Union 4@3x.png"; sourceTree = SOURCE_ROOT; };
+		81567819230B2F0D006452A7 /* 1. Login Screen@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "1. Login Screen@3x.png"; path = "Rezaspot/__Assests__/1. Login Screen@3x.png"; sourceTree = SOURCE_ROOT; };
+		8156781A230B2F0D006452A7 /* inputs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = inputs.png; path = Rezaspot/__Assests__/inputs.png; sourceTree = SOURCE_ROOT; };
+		8156781B230B2F0D006452A7 /* Wallet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Wallet.png; path = Rezaspot/__Assests__/Wallet.png; sourceTree = SOURCE_ROOT; };
+		8156781C230B2F0D006452A7 /* 6. Payment Method@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "6. Payment Method@3x.png"; path = "Rezaspot/__Assests__/6. Payment Method@3x.png"; sourceTree = SOURCE_ROOT; };
+		8156781D230B2F0E006452A7 /* Button-Temp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Button-Temp.png"; path = "Rezaspot/__Assests__/Button-Temp.png"; sourceTree = SOURCE_ROOT; };
+		8156781E230B2F0E006452A7 /* Buttons@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Buttons@3x.png"; path = "Rezaspot/__Assests__/Buttons@3x.png"; sourceTree = SOURCE_ROOT; };
+		8156781F230B2F0E006452A7 /* Rectangle 123.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Rectangle 123.png"; path = "Rezaspot/__Assests__/Rectangle 123.png"; sourceTree = SOURCE_ROOT; };
+		81567820230B2F0E006452A7 /* Rectangle 123@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Rectangle 123@2x.png"; path = "Rezaspot/__Assests__/Rectangle 123@2x.png"; sourceTree = SOURCE_ROOT; };
+		81567821230B2F0E006452A7 /* Reservation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Reservation.png; path = Rezaspot/__Assests__/Reservation.png; sourceTree = SOURCE_ROOT; };
+		81567822230B2F0E006452A7 /* 7. Card Details@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "7. Card Details@2x.png"; path = "Rezaspot/__Assests__/7. Card Details@2x.png"; sourceTree = SOURCE_ROOT; };
+		81567823230B2F0E006452A7 /* Rectangle 123@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Rectangle 123@3x.png"; path = "Rezaspot/__Assests__/Rectangle 123@3x.png"; sourceTree = SOURCE_ROOT; };
+		81567824230B2F0E006452A7 /* Continue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Continue.png; path = Rezaspot/__Assests__/Continue.png; sourceTree = SOURCE_ROOT; };
+		81567825230B2F0E006452A7 /* search@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "search@2x.png"; path = "Rezaspot/__Assests__/search@2x.png"; sourceTree = SOURCE_ROOT; };
+		81567826230B2F0F006452A7 /* 4. Menu@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "4. Menu@2x.png"; path = "Rezaspot/__Assests__/4. Menu@2x.png"; sourceTree = SOURCE_ROOT; };
+		81567827230B2F0F006452A7 /* Union -1@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Union -1@3x.png"; path = "Rezaspot/__Assests__/Union -1@3x.png"; sourceTree = SOURCE_ROOT; };
+		81567828230B2F0F006452A7 /* Promo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Promo.png; path = Rezaspot/__Assests__/Promo.png; sourceTree = SOURCE_ROOT; };
+		81567829230B2F0F006452A7 /* 2. Vehicle Registration@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "2. Vehicle Registration@2x.png"; path = "Rezaspot/__Assests__/2. Vehicle Registration@2x.png"; sourceTree = SOURCE_ROOT; };
+		8156782A230B2F0F006452A7 /* Buttons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Buttons.png; path = Rezaspot/__Assests__/Buttons.png; sourceTree = SOURCE_ROOT; };
+		8156782B230B2F0F006452A7 /* 3. Map Search@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "3. Map Search@2x.png"; path = "Rezaspot/__Assests__/3. Map Search@2x.png"; sourceTree = SOURCE_ROOT; };
+		8156782C230B2F0F006452A7 /* 3. Map Search@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "3. Map Search@3x.png"; path = "Rezaspot/__Assests__/3. Map Search@3x.png"; sourceTree = SOURCE_ROOT; };
+		8156782D230B2F0F006452A7 /* 6. Payment Method@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "6. Payment Method@2x.png"; path = "Rezaspot/__Assests__/6. Payment Method@2x.png"; sourceTree = SOURCE_ROOT; };
+		8156782E230B2F0F006452A7 /* 8. Reservations@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "8. Reservations@3x.png"; path = "Rezaspot/__Assests__/8. Reservations@3x.png"; sourceTree = SOURCE_ROOT; };
+		8156782F230B2F0F006452A7 /* 8. Reservations@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "8. Reservations@2x.png"; path = "Rezaspot/__Assests__/8. Reservations@2x.png"; sourceTree = SOURCE_ROOT; };
+		81567830230B2F0F006452A7 /* 4. Menu@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "4. Menu@3x.png"; path = "Rezaspot/__Assests__/4. Menu@3x.png"; sourceTree = SOURCE_ROOT; };
+		81567831230B2F10006452A7 /* 6. Payment Method.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "6. Payment Method.png"; path = "Rezaspot/__Assests__/6. Payment Method.png"; sourceTree = SOURCE_ROOT; };
+		81567832230B2F10006452A7 /* Rectangle 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Rectangle 1.png"; path = "Rezaspot/__Assests__/Rectangle 1.png"; sourceTree = SOURCE_ROOT; };
+		81567833230B2F10006452A7 /* Union 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Union 4.png"; path = "Rezaspot/__Assests__/Union 4.png"; sourceTree = SOURCE_ROOT; };
+		81567834230B2F10006452A7 /* 4. Menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "4. Menu.png"; path = "Rezaspot/__Assests__/4. Menu.png"; sourceTree = SOURCE_ROOT; };
+		81567835230B2F10006452A7 /* back_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = back_button.png; path = Rezaspot/__Assests__/back_button.png; sourceTree = SOURCE_ROOT; };
+		81567836230B2F10006452A7 /* 1. Login Screen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "1. Login Screen@2x.png"; path = "Rezaspot/__Assests__/1. Login Screen@2x.png"; sourceTree = SOURCE_ROOT; };
+		8156786C230B2F73006452A7 /* Logo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Logo1.png; path = Rezaspot/__Assests__/Logo1.png; sourceTree = SOURCE_ROOT; };
+		8156786E230B3815006452A7 /* SignInPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInPage.swift; sourceTree = "<group>"; };
 		B5877051B8F57F7819FA2448 /* Pods-Rezaspot.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Rezaspot.release.xcconfig"; path = "Pods/Target Support Files/Pods-Rezaspot/Pods-Rezaspot.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -65,6 +175,7 @@
 		815677E9230B2A5F006452A7 /* Rezaspot */ = {
 			isa = PBXGroup;
 			children = (
+				81567801230B2EAA006452A7 /* Assets */,
 				815677EA230B2A5F006452A7 /* AppDelegate.swift */,
 				815677EC230B2A5F006452A7 /* ViewController.swift */,
 				815677EE230B2A5F006452A7 /* Main.storyboard */,
@@ -73,8 +184,70 @@
 				815677F9230B2A63006452A7 /* Info.plist */,
 				815677F1230B2A5F006452A7 /* Rezaspot.xcdatamodeld */,
 				815677FF230B2CAD006452A7 /* LoginPage.swift */,
+				8156786E230B3815006452A7 /* SignInPage.swift */,
 			);
 			path = Rezaspot;
+			sourceTree = "<group>";
+		};
+		81567801230B2EAA006452A7 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				8156786C230B2F73006452A7 /* Logo1.png */,
+				81567813230B2F0D006452A7 /* 1. Login Screen.png */,
+				81567836230B2F10006452A7 /* 1. Login Screen@2x.png */,
+				81567819230B2F0D006452A7 /* 1. Login Screen@3x.png */,
+				81567803230B2F0C006452A7 /* 2. Vehicle Registration.png */,
+				81567829230B2F0F006452A7 /* 2. Vehicle Registration@2x.png */,
+				81567804230B2F0C006452A7 /* 2. Vehicle Registration@3x.png */,
+				81567809230B2F0C006452A7 /* 3. Map Search.png */,
+				8156782B230B2F0F006452A7 /* 3. Map Search@2x.png */,
+				8156782C230B2F0F006452A7 /* 3. Map Search@3x.png */,
+				81567834230B2F10006452A7 /* 4. Menu.png */,
+				81567826230B2F0F006452A7 /* 4. Menu@2x.png */,
+				81567830230B2F0F006452A7 /* 4. Menu@3x.png */,
+				81567812230B2F0D006452A7 /* 5. Duration.png */,
+				81567816230B2F0D006452A7 /* 5. Duration@2x.png */,
+				81567815230B2F0D006452A7 /* 5. Duration@3x.png */,
+				81567831230B2F10006452A7 /* 6. Payment Method.png */,
+				8156782D230B2F0F006452A7 /* 6. Payment Method@2x.png */,
+				8156781C230B2F0D006452A7 /* 6. Payment Method@3x.png */,
+				81567807230B2F0C006452A7 /* 7. Card Details.png */,
+				81567822230B2F0E006452A7 /* 7. Card Details@2x.png */,
+				8156780A230B2F0C006452A7 /* 7. Card Details@3x.png */,
+				8156780F230B2F0C006452A7 /* 8. Reservations.png */,
+				8156782F230B2F0F006452A7 /* 8. Reservations@2x.png */,
+				8156782E230B2F0F006452A7 /* 8. Reservations@3x.png */,
+				81567808230B2F0C006452A7 /* avatar.png */,
+				81567835230B2F10006452A7 /* back_button.png */,
+				81567805230B2F0C006452A7 /* Background.png */,
+				8156781D230B2F0E006452A7 /* Button-Temp.png */,
+				8156782A230B2F0F006452A7 /* Buttons.png */,
+				8156780B230B2F0C006452A7 /* Buttons@2x.png */,
+				8156781E230B2F0E006452A7 /* Buttons@3x.png */,
+				81567824230B2F0E006452A7 /* Continue.png */,
+				8156780E230B2F0C006452A7 /* Continue@2x.png */,
+				81567817230B2F0D006452A7 /* Continue@3x.png */,
+				8156781A230B2F0D006452A7 /* inputs.png */,
+				81567806230B2F0C006452A7 /* Logout.png */,
+				81567828230B2F0F006452A7 /* Promo.png */,
+				81567832230B2F10006452A7 /* Rectangle 1.png */,
+				8156781F230B2F0E006452A7 /* Rectangle 123.png */,
+				81567820230B2F0E006452A7 /* Rectangle 123@2x.png */,
+				81567823230B2F0E006452A7 /* Rectangle 123@3x.png */,
+				81567821230B2F0E006452A7 /* Reservation.png */,
+				81567810230B2F0D006452A7 /* search.png */,
+				81567825230B2F0E006452A7 /* search@2x.png */,
+				8156780D230B2F0C006452A7 /* search@3x.png */,
+				81567802230B2F0C006452A7 /* Settings.png */,
+				81567814230B2F0D006452A7 /* Union -1.png */,
+				8156780C230B2F0C006452A7 /* Union -1@2x.png */,
+				81567827230B2F0F006452A7 /* Union -1@3x.png */,
+				81567833230B2F10006452A7 /* Union 4.png */,
+				81567811230B2F0D006452A7 /* Union 4@2x.png */,
+				81567818230B2F0D006452A7 /* Union 4@3x.png */,
+				8156781B230B2F0D006452A7 /* Wallet.png */,
+			);
+			path = Assets;
 			sourceTree = "<group>";
 		};
 		C51CC4A2E8F30B25121DB0CD /* Frameworks */ = {
@@ -154,9 +327,63 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81567855230B2F10006452A7 /* Rectangle 123@2x.png in Resources */,
+				8156784B230B2F10006452A7 /* 5. Duration@2x.png in Resources */,
+				81567862230B2F10006452A7 /* 6. Payment Method@2x.png in Resources */,
+				81567849230B2F10006452A7 /* Union -1.png in Resources */,
+				8156785C230B2F10006452A7 /* Union -1@3x.png in Resources */,
+				8156783C230B2F10006452A7 /* 7. Card Details.png in Resources */,
+				81567858230B2F10006452A7 /* Rectangle 123@3x.png in Resources */,
+				81567856230B2F10006452A7 /* Reservation.png in Resources */,
+				81567845230B2F10006452A7 /* search.png in Resources */,
+				81567852230B2F10006452A7 /* Button-Temp.png in Resources */,
+				81567843230B2F10006452A7 /* Continue@2x.png in Resources */,
+				8156786B230B2F10006452A7 /* 1. Login Screen@2x.png in Resources */,
+				81567857230B2F10006452A7 /* 7. Card Details@2x.png in Resources */,
+				81567867230B2F10006452A7 /* Rectangle 1.png in Resources */,
+				8156786D230B2F73006452A7 /* Logo1.png in Resources */,
+				81567868230B2F10006452A7 /* Union 4.png in Resources */,
+				81567861230B2F10006452A7 /* 3. Map Search@3x.png in Resources */,
+				8156784D230B2F10006452A7 /* Union 4@3x.png in Resources */,
+				81567848230B2F10006452A7 /* 1. Login Screen.png in Resources */,
+				81567850230B2F10006452A7 /* Wallet.png in Resources */,
+				81567847230B2F10006452A7 /* 5. Duration.png in Resources */,
+				8156785D230B2F10006452A7 /* Promo.png in Resources */,
+				8156784F230B2F10006452A7 /* inputs.png in Resources */,
+				81567864230B2F10006452A7 /* 8. Reservations@2x.png in Resources */,
+				8156786A230B2F10006452A7 /* back_button.png in Resources */,
+				81567844230B2F10006452A7 /* 8. Reservations.png in Resources */,
+				81567859230B2F10006452A7 /* Continue.png in Resources */,
+				81567838230B2F10006452A7 /* 2. Vehicle Registration.png in Resources */,
+				81567865230B2F10006452A7 /* 4. Menu@3x.png in Resources */,
+				8156785B230B2F10006452A7 /* 4. Menu@2x.png in Resources */,
+				81567839230B2F10006452A7 /* 2. Vehicle Registration@3x.png in Resources */,
+				81567842230B2F10006452A7 /* search@3x.png in Resources */,
+				8156784E230B2F10006452A7 /* 1. Login Screen@3x.png in Resources */,
+				81567860230B2F10006452A7 /* 3. Map Search@2x.png in Resources */,
+				81567837230B2F10006452A7 /* Settings.png in Resources */,
+				8156784C230B2F10006452A7 /* Continue@3x.png in Resources */,
+				8156783A230B2F10006452A7 /* Background.png in Resources */,
+				8156785A230B2F10006452A7 /* search@2x.png in Resources */,
+				81567863230B2F10006452A7 /* 8. Reservations@3x.png in Resources */,
+				81567840230B2F10006452A7 /* Buttons@2x.png in Resources */,
 				815677F8230B2A63006452A7 /* LaunchScreen.storyboard in Resources */,
+				8156783D230B2F10006452A7 /* avatar.png in Resources */,
+				81567854230B2F10006452A7 /* Rectangle 123.png in Resources */,
 				815677F5230B2A63006452A7 /* Assets.xcassets in Resources */,
+				8156785E230B2F10006452A7 /* 2. Vehicle Registration@2x.png in Resources */,
 				815677F0230B2A5F006452A7 /* Main.storyboard in Resources */,
+				81567866230B2F10006452A7 /* 6. Payment Method.png in Resources */,
+				81567846230B2F10006452A7 /* Union 4@2x.png in Resources */,
+				81567869230B2F10006452A7 /* 4. Menu.png in Resources */,
+				8156783F230B2F10006452A7 /* 7. Card Details@3x.png in Resources */,
+				8156783B230B2F10006452A7 /* Logout.png in Resources */,
+				81567853230B2F10006452A7 /* Buttons@3x.png in Resources */,
+				8156783E230B2F10006452A7 /* 3. Map Search.png in Resources */,
+				81567851230B2F10006452A7 /* 6. Payment Method@3x.png in Resources */,
+				8156785F230B2F10006452A7 /* Buttons.png in Resources */,
+				81567841230B2F10006452A7 /* Union -1@2x.png in Resources */,
+				8156784A230B2F10006452A7 /* 5. Duration@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -210,6 +437,7 @@
 				815677ED230B2A5F006452A7 /* ViewController.swift in Sources */,
 				815677EB230B2A5F006452A7 /* AppDelegate.swift in Sources */,
 				815677F3230B2A5F006452A7 /* Rezaspot.xcdatamodeld in Sources */,
+				8156786F230B3815006452A7 /* SignInPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -359,6 +587,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = QLMV3X79ST;
 				INFOPLIST_FILE = Rezaspot/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -378,6 +607,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = QLMV3X79ST;
 				INFOPLIST_FILE = Rezaspot/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

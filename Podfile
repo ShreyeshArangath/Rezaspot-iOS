@@ -7,5 +7,6 @@ target 'Rezaspot' do
 
   # Pods for Rezaspot
   pod 'SkyFloatingLabelTextField', '~> 3.0'
+  pod 'GradientLoadingBar', '~> 1.0'
 
 end
