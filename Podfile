@@ -7,6 +7,8 @@ target 'Rezaspot' do
 
   # Pods for Rezaspot
   pod 'SkyFloatingLabelTextField', '~> 3.0'
-  pod 'GradientLoadingBar', '~> 1.0'
-
+  pod 'Firebase'
+  pod 'Firebase/Core'
+  pod 'Firebase/Auth'
+  pod 'NVActivityIndicatorView'
 end

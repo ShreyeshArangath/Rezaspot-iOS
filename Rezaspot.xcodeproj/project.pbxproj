@@ -70,6 +70,7 @@
 		8156786B230B2F10006452A7 /* 1. Login Screen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 81567836230B2F10006452A7 /* 1. Login Screen@2x.png */; };
 		8156786D230B2F73006452A7 /* Logo1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156786C230B2F73006452A7 /* Logo1.png */; };
 		8156786F230B3815006452A7 /* SignInPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8156786E230B3815006452A7 /* SignInPage.swift */; };
+		81567871230B3E5F006452A7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 81567870230B3E5F006452A7 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -139,6 +140,7 @@
 		81567836230B2F10006452A7 /* 1. Login Screen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "1. Login Screen@2x.png"; path = "Rezaspot/__Assests__/1. Login Screen@2x.png"; sourceTree = SOURCE_ROOT; };
 		8156786C230B2F73006452A7 /* Logo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Logo1.png; path = Rezaspot/__Assests__/Logo1.png; sourceTree = SOURCE_ROOT; };
 		8156786E230B3815006452A7 /* SignInPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInPage.swift; sourceTree = "<group>"; };
+		81567870230B3E5F006452A7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		B5877051B8F57F7819FA2448 /* Pods-Rezaspot.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Rezaspot.release.xcconfig"; path = "Pods/Target Support Files/Pods-Rezaspot/Pods-Rezaspot.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -181,6 +183,7 @@
 				815677EE230B2A5F006452A7 /* Main.storyboard */,
 				815677F4230B2A63006452A7 /* Assets.xcassets */,
 				815677F6230B2A63006452A7 /* LaunchScreen.storyboard */,
+				81567870230B3E5F006452A7 /* GoogleService-Info.plist */,
 				815677F9230B2A63006452A7 /* Info.plist */,
 				815677F1230B2A5F006452A7 /* Rezaspot.xcdatamodeld */,
 				815677FF230B2CAD006452A7 /* LoginPage.swift */,
@@ -360,6 +363,7 @@
 				81567839230B2F10006452A7 /* 2. Vehicle Registration@3x.png in Resources */,
 				81567842230B2F10006452A7 /* search@3x.png in Resources */,
 				8156784E230B2F10006452A7 /* 1. Login Screen@3x.png in Resources */,
+				81567871230B3E5F006452A7 /* GoogleService-Info.plist in Resources */,
 				81567860230B2F10006452A7 /* 3. Map Search@2x.png in Resources */,
 				81567837230B2F10006452A7 /* Settings.png in Resources */,
 				8156784C230B2F10006452A7 /* Continue@3x.png in Resources */,
@@ -397,11 +401,19 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-Rezaspot/Pods-Rezaspot-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework",
 				"${BUILT_PRODUCTS_DIR}/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NVActivityIndicatorView.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SkyFloatingLabelTextField.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -588,10 +600,7 @@
 				DEVELOPMENT_TEAM = QLMV3X79ST;
 				INFOPLIST_FILE = Rezaspot/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Quark.Rezaspot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -608,10 +617,7 @@
 				DEVELOPMENT_TEAM = QLMV3X79ST;
 				INFOPLIST_FILE = Rezaspot/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Quark.Rezaspot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
