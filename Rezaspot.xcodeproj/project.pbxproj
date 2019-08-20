@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		340656B2ACD5CBD65B4ADBC2 /* Pods_Rezaspot.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BC2BA5D842188AE871DAA05 /* Pods_Rezaspot.framework */; };
+		8138141E230C760800773367 /* EmailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8138141D230C760800773367 /* EmailViewController.swift */; };
+		81381420230C784700773367 /* PasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8138141F230C784700773367 /* PasswordViewController.swift */; };
+		81381422230C797000773367 /* CarModelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81381421230C797000773367 /* CarModelViewController.swift */; };
+		81381424230C7F0600773367 /* LicensePlateNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81381423230C7F0600773367 /* LicensePlateNumber.swift */; };
+		81381426230C80E600773367 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81381425230C80E600773367 /* WelcomeViewController.swift */; };
 		815677EB230B2A5F006452A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 815677EA230B2A5F006452A7 /* AppDelegate.swift */; };
 		815677ED230B2A5F006452A7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 815677EC230B2A5F006452A7 /* ViewController.swift */; };
 		815677F0230B2A5F006452A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 815677EE230B2A5F006452A7 /* Main.storyboard */; };
@@ -71,11 +76,18 @@
 		8156786D230B2F73006452A7 /* Logo1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8156786C230B2F73006452A7 /* Logo1.png */; };
 		8156786F230B3815006452A7 /* SignInPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8156786E230B3815006452A7 /* SignInPage.swift */; };
 		81567871230B3E5F006452A7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 81567870230B3E5F006452A7 /* GoogleService-Info.plist */; };
+		81567875230B53A7006452A7 /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81567874230B53A7006452A7 /* HomePage.swift */; };
+		81567877230C7321006452A7 /* SignUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81567876230C7321006452A7 /* SignUp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		4894C4D0ED5BA6862CF09FD3 /* Pods-Rezaspot.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Rezaspot.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Rezaspot/Pods-Rezaspot.debug.xcconfig"; sourceTree = "<group>"; };
 		7BC2BA5D842188AE871DAA05 /* Pods_Rezaspot.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Rezaspot.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8138141D230C760800773367 /* EmailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailViewController.swift; sourceTree = "<group>"; };
+		8138141F230C784700773367 /* PasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordViewController.swift; sourceTree = "<group>"; };
+		81381421230C797000773367 /* CarModelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarModelViewController.swift; sourceTree = "<group>"; };
+		81381423230C7F0600773367 /* LicensePlateNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LicensePlateNumber.swift; sourceTree = "<group>"; };
+		81381425230C80E600773367 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		815677E7230B2A5F006452A7 /* Rezaspot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rezaspot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		815677EA230B2A5F006452A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		815677EC230B2A5F006452A7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -141,6 +153,8 @@
 		8156786C230B2F73006452A7 /* Logo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Logo1.png; path = Rezaspot/__Assests__/Logo1.png; sourceTree = SOURCE_ROOT; };
 		8156786E230B3815006452A7 /* SignInPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInPage.swift; sourceTree = "<group>"; };
 		81567870230B3E5F006452A7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		81567874230B53A7006452A7 /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
+		81567876230C7321006452A7 /* SignUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUp.swift; sourceTree = "<group>"; };
 		B5877051B8F57F7819FA2448 /* Pods-Rezaspot.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Rezaspot.release.xcconfig"; path = "Pods/Target Support Files/Pods-Rezaspot/Pods-Rezaspot.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -156,6 +170,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8138141C230C75EE00773367 /* Registration */ = {
+			isa = PBXGroup;
+			children = (
+				8138141D230C760800773367 /* EmailViewController.swift */,
+				8138141F230C784700773367 /* PasswordViewController.swift */,
+				81381421230C797000773367 /* CarModelViewController.swift */,
+				81381423230C7F0600773367 /* LicensePlateNumber.swift */,
+				81381425230C80E600773367 /* WelcomeViewController.swift */,
+			);
+			path = Registration;
+			sourceTree = "<group>";
+		};
 		815677DE230B2A5F006452A7 = {
 			isa = PBXGroup;
 			children = (
@@ -177,17 +203,20 @@
 		815677E9230B2A5F006452A7 /* Rezaspot */ = {
 			isa = PBXGroup;
 			children = (
+				8138141C230C75EE00773367 /* Registration */,
 				81567801230B2EAA006452A7 /* Assets */,
 				815677EA230B2A5F006452A7 /* AppDelegate.swift */,
 				815677EC230B2A5F006452A7 /* ViewController.swift */,
 				815677EE230B2A5F006452A7 /* Main.storyboard */,
 				815677F4230B2A63006452A7 /* Assets.xcassets */,
 				815677F6230B2A63006452A7 /* LaunchScreen.storyboard */,
+				81567876230C7321006452A7 /* SignUp.swift */,
 				81567870230B3E5F006452A7 /* GoogleService-Info.plist */,
 				815677F9230B2A63006452A7 /* Info.plist */,
 				815677F1230B2A5F006452A7 /* Rezaspot.xcdatamodeld */,
 				815677FF230B2CAD006452A7 /* LoginPage.swift */,
 				8156786E230B3815006452A7 /* SignInPage.swift */,
+				81567874230B53A7006452A7 /* HomePage.swift */,
 			);
 			path = Rezaspot;
 			sourceTree = "<group>";
@@ -445,11 +474,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81567877230C7321006452A7 /* SignUp.swift in Sources */,
 				81567800230B2CAD006452A7 /* LoginPage.swift in Sources */,
+				81567875230B53A7006452A7 /* HomePage.swift in Sources */,
+				8138141E230C760800773367 /* EmailViewController.swift in Sources */,
 				815677ED230B2A5F006452A7 /* ViewController.swift in Sources */,
 				815677EB230B2A5F006452A7 /* AppDelegate.swift in Sources */,
+				81381422230C797000773367 /* CarModelViewController.swift in Sources */,
 				815677F3230B2A5F006452A7 /* Rezaspot.xcdatamodeld in Sources */,
 				8156786F230B3815006452A7 /* SignInPage.swift in Sources */,
+				81381426230C80E600773367 /* WelcomeViewController.swift in Sources */,
+				81381420230C784700773367 /* PasswordViewController.swift in Sources */,
+				81381424230C7F0600773367 /* LicensePlateNumber.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -600,7 +636,10 @@
 				DEVELOPMENT_TEAM = QLMV3X79ST;
 				INFOPLIST_FILE = Rezaspot/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.Quark.Rezaspot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -617,7 +656,10 @@
 				DEVELOPMENT_TEAM = QLMV3X79ST;
 				INFOPLIST_FILE = Rezaspot/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.Quark.Rezaspot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
