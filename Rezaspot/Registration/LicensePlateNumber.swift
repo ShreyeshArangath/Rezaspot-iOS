@@ -8,6 +8,7 @@
 
 import UIKit
 import SkyFloatingLabelTextField
+import FirebaseDatabase
 
 class LicensePlateNumber : UIViewController {
     
@@ -15,8 +16,18 @@ class LicensePlateNumber : UIViewController {
     var email = ""
     var model = ""
     var uid = ""
+    var ref : DatabaseReference!
+    
     
     let textFieldColor = UIColor(red: 225/255, green: 120/255, blue: 51/255, alpha: 1.0)
+    
+    @IBAction func updateUserDetails(_ sender: Any) {
+        ref = Database.database().reference()
+        ref.child("users").child(uid).setValue(["name":name,
+                                                "email":email,
+                                                "model": model,
+                                                "licensePlateNumber":licensePlate.text!])
+    }
     
     @IBOutlet weak var licensePlate: SkyFloatingLabelTextField!
     override func viewDidLoad() {

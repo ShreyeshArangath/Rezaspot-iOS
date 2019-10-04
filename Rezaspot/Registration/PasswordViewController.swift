@@ -9,6 +9,7 @@
 import UIKit
 import FirebaseAuth
 import SkyFloatingLabelTextField
+import NVActivityIndicatorView
 
 class PasswordViewController : UIViewController {
     var name=""
@@ -17,6 +18,8 @@ class PasswordViewController : UIViewController {
     let textFieldColor = UIColor(red: 225/255, green: 120/255, blue: 51/255, alpha: 1.0)
     
     @IBOutlet weak var passwordTextField: SkyFloatingLabelTextField!
+    
+    @IBOutlet weak var activityIndicator: NVActivityIndicatorView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -40,6 +43,7 @@ class PasswordViewController : UIViewController {
     }
     
     func createNewUser() {
+        self.activityIndicator.startAnimating()
         Auth.auth().createUser(withEmail: email, password: passwordTextField.text!) { (user, error) in
             if error != nil {
                 print("There is an error")
@@ -48,8 +52,11 @@ class PasswordViewController : UIViewController {
                 self.uid=(user?.user.uid)!
                 self.performSegue(withIdentifier: "toMoreDetails", sender: self)
             }
+            self.activityIndicator.stopAnimating()
         }
     }
+    
+    
     
     
 }
